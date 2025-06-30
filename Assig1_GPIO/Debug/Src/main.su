@@ -1,0 +1,5 @@
+../Src/main.c:30:6:vAperiodicTask1	16	static
+../Src/main.c:39:6:vperiodicTask2	24	static
+../Src/main.c:49:6:vAperiodicTask3	16	static
+../Src/main.c:59:6:vperiodicTask4	24	static
+../Src/main.c:70:5:main	16	static
